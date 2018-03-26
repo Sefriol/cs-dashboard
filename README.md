@@ -1,5 +1,5 @@
 # callstats.io Dashboard assignment
-
+![Preview](https://raw.githubusercontent.com/Sefriol/cs-dashboard/master/cs-dashboard/cs-dashboard-preview.png)
 ## About
 
 This assignment is split to two parts: express server backend
